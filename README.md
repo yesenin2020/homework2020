@@ -1,7 +1,8 @@
 # Linux_homework
 Linux_homework<br />
 <del>나는 리눅스가 싫어요.</del><br />
-Github상에서 PR을 보내보는 실습을 해봅시다.
+Github상에서 PR을 보내보는 실습을 해봅시다.<br />
+relay_coding이나 relay_novel 폴더에 자유롭게 작성해주시면 됩니다.
 
 # relay_coding
 relay_coding 폴더에는 여러분들이 자유롭게 코드를 이어서 작성해 주시면 됩니다!<br />
