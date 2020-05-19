@@ -1,3 +1,4 @@
 long long time ago,,,,,,
 hello my name is hans
 i hate linux 
+i love mac
