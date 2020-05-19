@@ -1,5 +1,6 @@
 # Linux_homework
 Linux_homework<br />
+<del>나는 리눅스가 싫어요.</del><br />
 Github상에서 PR을 보내보는 실습을 해봅시다.
 
 # relay_coding
