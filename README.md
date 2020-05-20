@@ -19,7 +19,8 @@ relay_novel 폴더에는 여러분들이 자유롭게 소설을 작성해주시�
 그렇기 때문에 다음 과정을 거쳐서 `merge`가 이루어진 다른 코드를 업데이트하는 과정을 거치도록 합니다.<br />
 ## 리모트 저장소 추가
 `git remote add lamp https://github.com/lampkang/linux_homework`<br />
-위 명령어를 터미널에 입력하면 fetch를 받아올 리모트저장소를 등록합니다
+위 명령어를 터미널에 입력하면 fetch를 받아올 리모트저장소를 등록합니다.<br />
+
 ## fetch
 `git fatch lamp`
 <B>브랜치를 변경하지 않았다면</B> <br />여러분의 `master`에 이 저장소의 코드가 `fetch` 명령을 통해 업데이트가 됩니다.
