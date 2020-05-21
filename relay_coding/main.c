@@ -16,8 +16,10 @@ int main(){
   printf("Nice class and \n");
   printf("Utopia and e\n");
   printf("Xiting!!!\n");
-
+  
+  printf("wow !!!\n");
     
+
 	return 1;
 
 }
