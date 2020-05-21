@@ -21,6 +21,8 @@ int main(){
         
         printf("Hi hi");
 
+	printf("I Love C");
+
 	return 1;
 
 }
