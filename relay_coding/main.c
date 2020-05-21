@@ -21,6 +21,9 @@ int main(){
         
         printf("Hi hi");
 
+	printf("I hate COVID-19. too");
+	printf("i wnat go to school");
+
 	return 1;
 
 }
