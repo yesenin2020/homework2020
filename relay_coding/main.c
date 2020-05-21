@@ -24,7 +24,7 @@ int main(){
         
         printf("Hi hi");
 
-
+	printf("Hello nice to meet you.\n");
 	return 1;
 
 }
