@@ -18,7 +18,8 @@ int main(){
 	printf("Xiting!!!\n");
 
 	printf("wow !!!\n");
-
+        
+        printf("Hi hi");
 
 	return 1;
 
