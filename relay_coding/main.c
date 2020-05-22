@@ -30,6 +30,9 @@ int main(){
 
         printf("Hi hi");
 
+	printf("So difficlut ...\n");
+	printf("I want to meet new friends!\n");
+
 
 	printf("I hate COVID-19. too");
 	printf("i wnat go to school");
@@ -45,4 +48,5 @@ int main(){
 
   return 1;
 
+>>>>>>> lamp/master
 }
