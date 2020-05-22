@@ -25,8 +25,10 @@ int main(){
         printf("Hi hi");
 
 
-	printf("I Love C");
+	printf("Hello nice to meet you.\n");
 
+
+	printf("I Love C");
 
 	return 1;
 
