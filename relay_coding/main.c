@@ -24,7 +24,12 @@ int main(){
         
         printf("Hi hi");
 
+
 	printf("Hello nice to meet you.\n");
+
+
+	printf("I Love C");
+
 	return 1;
 
 }
