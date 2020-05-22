@@ -25,6 +25,7 @@ int main(){
         printf("Hi hi");
 
 	printf("So difficlut ...\n");
+	printf("I want to meet new friends!\n");
 
 
 	return 1;
