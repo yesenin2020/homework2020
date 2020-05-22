@@ -23,7 +23,9 @@ int main(){
 	printf("I write this in May");
         
         printf("Hi hi");
-
+	
+	printf("\ncivilization 6 is amzaing game!\n");
+	printf("please fix bugs");
 
 	printf("Hello nice to meet you.\n");
 
