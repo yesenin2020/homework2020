@@ -43,8 +43,10 @@ int main(){
 
   printf("Hello nice to meet you.\n");
 
-
   printf("I Love C");
+  
+  printf("The Cake is a Lie!")
+
 
   return 1;
 
