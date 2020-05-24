@@ -34,6 +34,10 @@ int main() {
 	printf("I hate COVID-19. too");
 	printf("i want go to school");
 
+  printf("I Love C");
+  
+  printf("The Cake is a Lie!")
+
 	printf("\ncivilization 6 is amazing game!\n");
 	printf("please fix bugs");
 
