@@ -45,5 +45,9 @@ int main() {
 
 	printf("I Love C\n");
 
+	printf("Hello World!\n");
+	printf("Linux\n");
+	printf("Bye World!\n");
+
 	return 1;
 }
