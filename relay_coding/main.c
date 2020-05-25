@@ -44,6 +44,7 @@ int main() {
 	printf("Hello nice to meet you.\n");
 
 	printf("I Love C\n");
-
+	
+	printf("I don't know ");
 	return 1;
 }
