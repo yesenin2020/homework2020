@@ -49,5 +49,7 @@ int main() {
 	printf("Linux\n");
 	printf("Bye World!\n");
 
+
+	printf("I don't know ");
 	return 1;
 }
