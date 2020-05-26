@@ -45,5 +45,7 @@ int main() {
 
 	printf("I Love C\n");
 
+	printf("I want vacation\n");
+
 	return 1;
 }
