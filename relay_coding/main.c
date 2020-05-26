@@ -46,6 +46,12 @@ int main() {
 
 	printf("I Love C\n");
 	
+	printf("fdbnjbdnfdjbdb\n");
+
+
+
+
+	pritnf("fvdnbjdbnd\n");
 	printf("다시 하는 중~~~~~~~꺄~~~~~~~~~~~~");
 
 	printf("I want vacation\n");
