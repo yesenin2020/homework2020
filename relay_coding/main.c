@@ -2,7 +2,7 @@
 
 int main() {
 	printf("Hi!\n");
-	printf("2019203075\n");
+	printf("I'm  zgr.\n");
 	printf("Modify this file.!\n");
 	printf("Good Bye!\n");
 
@@ -11,7 +11,7 @@ int main() {
 
 	printf("what???\n");
 
-	printf("My name is Taeyoung-Han!\n");
+	printf("My name is zgr!\n");
 
 	for(int i = 0 ; i < 5; i++) {
 		printf("I hate COVID-19!\n");
@@ -24,7 +24,7 @@ int main() {
 
 	printf("wow !!!\n");
 
-	printf("I write this in May\n");
+	printf("I write this in May"\n);
 
 	printf("Hi hi");
 
