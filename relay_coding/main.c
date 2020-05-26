@@ -2,7 +2,7 @@
 
 int main() {
 	printf("Hi!\n");
-	printf("2019203075\n");
+	printf("I'm  zgr.\n");
 	printf("Modify this file.!\n");
 	printf("Good Bye!\n");
 
@@ -11,7 +11,7 @@ int main() {
 
 	printf("what???\n");
 
-	printf("My name is Taeyoung-Han!\n");
+	printf("My name is zgr!\n");
 
 	for(int i = 0 ; i < 5; i++) {
 		printf("I hate COVID-19!\n");
@@ -24,19 +24,7 @@ int main() {
 
 	printf("wow !!!\n");
 
-	printf("I write this in May");
-
-	printf("Hi hi");
-
-	printf("So difficult ...\n");
-	printf("I want to meet new friends!\n");
-
-	printf("I hate COVID-19. too");
-	printf("i want go to school");
-
-  printf("I Love C");
-  
-  printf("The Cake is a Lie!")
+	printf("I write this in May"\n);
 
 	printf("\ncivilization 6 is amazing game!\n");
 	printf("please fix bugs");
