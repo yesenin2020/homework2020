@@ -42,4 +42,4 @@ conflict가 해결되었다면 이제 PR을 보내셔도 좋습니다!
 - commit message는 구체적으로 써주시는게 좋습니다. <br />
 - 여러분이 작성한 코드 내역은 본 조교가 열심히 확인하고 반영하고 있습니다. <br />
 - git을 더 알아보고 싶은분들을 위해
-https://gmlwjd9405.github.io/2018/05/12/how-to-collaborate-on-GitHub-3.html
+https://gmlwjd9405.github.io/2017/10/27/how-to-collaborate-on-GitHub-1.html
