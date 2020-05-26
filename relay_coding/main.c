@@ -44,6 +44,8 @@ int main() {
 	printf("Hello nice to meet you.\n");
 
 	printf("I Love C\n");
+	
+	printf("다시 하는 중~~~~~~~꺄~~~~~~~~~~~~");
 
 	printf("Hello World!\n");
 	printf("Linux\n");
