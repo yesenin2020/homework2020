@@ -55,5 +55,6 @@ int main() {
 	printf("Bye World!\n");
 
 	printf("I don't know ");
+	printf("So hard..");
 	return 1;
 }
